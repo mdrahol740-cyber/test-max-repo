@@ -5,7 +5,7 @@ module.exports = {
     timezone: "Asia/Dhaka",
     bot: {
         token: "8445905806:AAFQki8MI0bENsGKz9Vt_7dmFpaEbzlc6jE",
-        id: "telegram_chat_id",
+        id: "6160558191",
         note: "Add telegram bot token and chatid for telegram log."
     },
     database: {
