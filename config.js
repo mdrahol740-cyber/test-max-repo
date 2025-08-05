@@ -1,10 +1,10 @@
 module.exports = {
-    dashboardPassword: "your-password",
-    logType: "json",
+    dashboardPassword: "Rahol@740",
+    logType: "tgbot",
     note: "Change this to 'mongodb', 'tgBot' or 'json' as needed",
     timezone: "Asia/Dhaka",
     bot: {
-        token: "telegram_bot_token",
+        token: "8445905806:AAFQki8MI0bENsGKz9Vt_7dmFpaEbzlc6jE",
         id: "telegram_chat_id",
         note: "Add telegram bot token and chatid for telegram log."
     },
